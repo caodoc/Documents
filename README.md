@@ -1,4 +1,4 @@
-<div align="center">
-    <h3> <strong> Documents </strong> </h3>
-    <img src="https://img.shields.io/github/last-commit/caodoc/documents?style=for-the-badge">
-</div>
+# Documents
+
+![](https://img.shields.io/github/repo-size/caodoc/Documents?style="flat-square"&color="94a4ff")
+![](https://img.shields.io/github/last-commit/caodoc/Documents?style="flat-square"&color="94a4ff")
